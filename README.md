@@ -1,4 +1,4 @@
-# SparkleAR_Travel-Randomizer
+# Spark AR Travel Randomizer
 ## AR effect <br><br/>
 <img src="https://github.com/AryadeepIT/SparkleAR_Travel-Randomizer/blob/main/ezgif-5-aa670fa829.gif?raw=true" width="30%">
 
